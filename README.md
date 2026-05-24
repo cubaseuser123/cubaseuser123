@@ -21,7 +21,6 @@ Engineering student from Nashik, India · Graduating 2027
 - 🔧 **Swiss Army Knife** — Open source AI productivity workspace. 27+ tools, one interface — RAG, media conversion, autonomous agents across Gmail/Calendar/Slack/Drive.
 - 📓 **Cellwise** — LangGraph agent that auto-documents your Jupyter notebooks in real-time as you code.
 - 🛡️ **Sentinel** — Autonomous multi-agent business risk intelligence platform.
-- 💰 **FinSight** — Agentic financial intelligence platform with a truth engine and narrative conflict detection.
 
 **Find me**
 
