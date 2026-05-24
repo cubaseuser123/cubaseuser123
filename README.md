@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Aaryan 👋
 
-<!--
-**cubaseuser123/cubaseuser123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student from Nashik, India · Graduating 2027
 
-Here are some ideas to get you started:
+- 🎓 BE-IT @ MET Bhujbal Knowledge City (SPPU)
+- 🤖 Building agentic AI systems — Swiss Army Knife, Cellwise, Sentinel, FinSight
+- 🛠️ Co-Lead & Core Team @ GDG on Campus + GDG Nashik
+- 🔨 Regular contributor to open source — PRs to production repos, shipped in public
+- 🌱 Sharing the build process weekly on LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I use**
+
+- Languages: Python, JS, TS, Go, C, C++, Java
+- AI/Agents: LangGraph, LlamaIndex, FastMCP, Google ADK, Vercel AI SDK, Vertex AI
+- Observability & Evals: OpenTelemetry, Arize Phoenix, Langfuse
+- Stack: React, Next.js, FastAPI, Node.js
+- Tools: Git, Docker, Claude Code, Codex, Antigravity
+
+**What I'm building**
+
+- 🔧 **Swiss Army Knife** — Open source AI productivity workspace. 27+ tools, one interface — RAG, media conversion, autonomous agents across Gmail/Calendar/Slack/Drive.
+- 📓 **Cellwise** — LangGraph agent that auto-documents your Jupyter notebooks in real-time as you code.
+- 🛡️ **Sentinel** — Autonomous multi-agent business risk intelligence platform.
+- 💰 **FinSight** — Agentic financial intelligence platform with a truth engine and narrative conflict detection.
+
+**Find me**
+
+- 🌐 Portfolio: [my-portfolio-website-drab-pi.vercel.app](https://my-portfolio-website-drab-pi.vercel.app)
+- ✍️ Blog: [Hashnode](https://hashnode.com/@cubaseuser123)
+- 💼 LinkedIn: *(add yours)*
+- 📧 Email: *(add yours)*
