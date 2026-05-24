@@ -25,6 +25,6 @@ Engineering student from Nashik, India · Graduating 2027
 **Find me**
 
 - 🌐 Portfolio: [my-portfolio-website-drab-pi.vercel.app](https://my-portfolio-website-drab-pi.vercel.app)
-- ✍️ Blog: [Hashnode](https://hashnode.com/@cubaseuser123)
-- 💼 LinkedIn: *(add yours)*
-- 📧 Email: *(add yours)*
+- ✍️ Blog: [Dev.to](https://dev.to/aaryan_tajanpure_1ef47fcb)
+- 💼 LinkedIn: https://www.linkedin.com/in/aaryan-tajanpure-a1938228a/
+- 📧 Email: aaryantajanpure@gmail.com
